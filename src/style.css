@@ -1,0 +1,33 @@
+form {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+p {
+  color: black;
+  text-align: center;
+  padding: 10px;
+}
+.row {
+  margin: 0 auto;
+  width: 500px;
+}
+.col {
+  text-align: center;
+}
+.units {
+  text-align: center;
+  padding-bottom: 20px;
+}
